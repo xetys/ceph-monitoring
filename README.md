@@ -5,7 +5,7 @@ A monitoring configuration for ceph using prometheus and grafana.
 
 - a running kubernetes 1.7+ cluster
 - a running ceph 12+ cluster
-- [Prometheus operator](installed)
+- [Prometheus operator](https://github.com/coreos/prometheus-operator/) installed
 
 ## Prepare
 
